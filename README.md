@@ -105,8 +105,4 @@ pip install -r requirements.txt
 
 ---
 
-## 📜 License
-
-This project is for academic and educational purposes only.
-```
 
